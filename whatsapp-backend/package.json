@@ -11,8 +11,10 @@
   "author": "Hussain",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.10.11",
-    "mongose": "0.0.2-security"
+    "mongose": "0.0.2-security",
+    "pusher": "^4.0.0"
   }
 }
